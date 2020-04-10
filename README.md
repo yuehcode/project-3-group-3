@@ -10,4 +10,5 @@ Analyst: Cody Webb
 
 # Repository Contents
 
-This repository contains all of the code and documents for Project 3 in BF528 for Group 3.
+This repository contains all of the code and documents that were created by the contributors in Group 3
+for BF528 Project 3.
