@@ -1,11 +1,13 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+This is Project 3.
 
 # Contributors
 
-List contributor names and github user names, or email addresses if desired
+Data Curator:  Chris Lin
+Programmer:  Yueh-ting Wang
+Analyst:Cody Webb
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+This repository contains all of the code and documents for Project 3 in BF528 for Group 3.
