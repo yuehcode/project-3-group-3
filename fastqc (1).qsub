@@ -1,0 +1,10 @@
+#!/bin/bash -l
+
+#$ -P bf528
+#$ -cwd
+#$ -pe omp 16
+
+source /etc/bashrc
+cd /projectnb/bf528/users/group3/project3/samples
+module load fastqc
+fastqc *.gz
