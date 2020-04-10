@@ -4,9 +4,9 @@ This is Project 3.
 
 # Contributors
 
-Data Curator:  Chris Lin
-Programmer:  Yueh-ting Wang
-Analyst:Cody Webb
+Data Curator:  Chris Lin  
+Programmer:  Yueh-ting Wang  
+Analyst: Cody Webb
 
 # Repository Contents
 
