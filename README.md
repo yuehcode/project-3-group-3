@@ -1,6 +1,6 @@
 # Project Description
 
-This is Project 3.
+Project 3 is the replication of testing concordance between RNA-sequencing data and microarray data. 
 
 # Contributors
 
