@@ -7,7 +7,7 @@ Contributors
 # Contributors
 
 Data Curator:  Chris Lin  
-Programmer:  Yueh-ting Wang  
+Programmer:  Yueh ting Wang  
 Analyst: Cody Webb
 
 # Repository Contents
